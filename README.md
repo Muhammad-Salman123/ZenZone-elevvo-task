@@ -16,16 +16,7 @@ A modern, responsive one-page landing site for a fictional SaaS wellness product
 - 📱 Fully responsive for all screen sizes
 - ✨ Font Awesome icons
 
-## 📷 Screenshots
-
-### 💻 Desktop View
-![Desktop](desktop-view.jpeg)
-
-### 📱 Mobile View
-![Mobile](mobile-view.jpeg)
-
-
-## 🛠 Built With
+ ## 🛠 Built With
 
 - HTML5
 - CSS3 (Flexbox + Grid)
@@ -39,3 +30,15 @@ A modern, responsive one-page landing site for a fictional SaaS wellness product
 📫 Email: msalmank1131@gmail.com
 
 ---
+
+
+## 📷 Screenshots
+
+### 💻 Desktop View
+![Desktop](desktop-view.jpeg)
+
+### 📱 Mobile View
+![Mobile](mobile-view.jpeg)
+
+
+
